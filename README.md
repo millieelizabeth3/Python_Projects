@@ -16,7 +16,7 @@ A Python tool that analyzes URLs for common phishing indicators and assigns a ri
 * Threat detection logic
 * URL parsing and analysis
 
-➡️ View Project: [./phishing-detection-tool/]
+➡️ [View Phishing Detection Tool](./phishing-detection-tool/)
 
 ## Future Projects
 
