@@ -32,3 +32,14 @@ Analyzing URL: hxxp://paypa1-login-secure.com
 - Add email header analysis
 - Build a GUI or web dashboard
 
+## Expanded Version - Domain age using WHOIS
+
+An expanded version of the phishing detection tool was developed to include domain intelligence using WHOIS data.
+
+Additional detection capabilities include:
+
+* Domain registration age analysis
+* Enhanced phishing risk scoring
+* Improved domain parsing
+
+[Script File](./phishing_detector_expanded.py)
