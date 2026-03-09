@@ -15,7 +15,7 @@ The tool assigns a risk score and highlights potential threats.
 - URL parsing and analysis
 
 ## Example Output
-Analyzing URL: http://paypa1-login-secure.com
+Analyzing URL: hxxp://paypa1-login-secure.com
 
 ⚠️ Suspicious keyword found: login
 ⚠️ URL uses HTTP instead of HTTPS
