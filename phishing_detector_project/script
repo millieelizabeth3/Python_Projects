@@ -1,3 +1,13 @@
+###
+Phishing Detection & URL Risk Analysis Tool
+
+Author: Millie Altman
+Description: This script analyzes URLs for common phishing indicators such as suspicious keywords, insecure protocols,
+IP-based domains and URL shorteners.
+
+The tool assigns a risk score and provides warnings for potentially malicious links. 
+###
+
 import re
 from urllib.parse import urlparse
 
