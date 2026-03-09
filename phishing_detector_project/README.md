@@ -1,4 +1,5 @@
 # Phishing Detection & URL Risk Analysis Tool
+← Back to [Python Security Projects](../)
 
 ## Overview
 A Python-based tool that analyzes URLs for common phishing indicators such as:
@@ -26,3 +27,4 @@ Analyzing URL: hxxp://paypa1-login-secure.com
 - Integrate VirusTotal API for live URL threat intelligence
 - Add email header analysis
 - Build a GUI or web dashboard
+
