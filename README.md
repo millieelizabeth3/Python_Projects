@@ -1,1 +1,4 @@
-# Python-Phishing-Detector
+# Python Projects
+
+## List of Projects
+-> Phishing Detector Tool
