@@ -19,8 +19,12 @@ The tool assigns a risk score and highlights potential threats.
 Analyzing URL: hxxp://paypa1-login-secure.com
 
 ⚠️ Suspicious keyword found: login
+
 ⚠️ URL uses HTTP instead of HTTPS
+
 🚨 HIGH PHISHING RISK
+
+[Example Image](./example_output.png/)
 
 ## Future Improvements
 - Check domain age using WHOIS
