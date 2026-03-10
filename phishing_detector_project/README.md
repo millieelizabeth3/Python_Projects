@@ -62,13 +62,37 @@ New capabilities include:
 
 ### Example Investigation Output
 
-Target URL: hxxp://paypa1-login-secure.com
-
-Domain: paypa1-login-secure.com
-
 [Base Output Example](python_output_example.png)
 
+---
+
+## Version 3: SOC-Style Phishing Investigation Tool
+
+Script:
+
+`phishing_investigation_tool.py` [Linked Script](phishing_investigation_tool.py)
+
+The final version of the tool expands the project into a more complete phishing investigation utility that more closely reflects workflows used by SOC analysts when analyzing suspicious URLs.
+
+Enhancements introduced in this version include:
+
+- **Structured risk scoring model**
+  - Assigns weighted scores to phishing indicators
+  - Generates a calculated threat level based on detected risks
+
+- **Improved investigation workflow**
+  - Clear separation of detection indicators
+  - Organized investigation output for easier analysis
+
+- **Enhanced detection logic**
+  - Additional phishing indicators
+  - More structured URL and domain analysis
+
+### Example Investigation Output
+
 [URL Investigation Output Example](phishing_url_investigation_outcome.png)
+
+These improvements transform the script from a basic detection tool into a more comprehensive phishing investigation utility designed to simulate analyst-style threat analysis.
 
 ---
 
@@ -79,6 +103,7 @@ Domain: paypa1-login-secure.com
 - URL and domain analysis
 - Domain intelligence investigation (WHOIS)
 - Security detection logic development
+- SOC-style threat investigation workflow
 
 ---
 
@@ -88,6 +113,5 @@ Planned enhancements include:
 
 - Phishing brand impersonation detection (typosquatting)
 - Threat intelligence enrichment
-- Automated risk scoring model
 - Bulk URL analysis capability
 - Exportable investigation reports
