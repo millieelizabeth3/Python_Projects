@@ -24,7 +24,7 @@ Analyzing URL: hxxp://paypa1-login-secure.com
 
 🚨 HIGH PHISHING RISK
 
-[Example Image](./example_output.png/)
+[Example Image](./phihing_detector_output_example.png/)
 
 ## Future Improvements
 - Check domain age using WHOIS
