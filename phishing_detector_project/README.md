@@ -20,12 +20,6 @@ The phishing detection tool was built incrementally to reflect how security tool
 | Version 2 | `phishing_detector_expanded.py` | Expanded version that includes domain intelligence using WHOIS lookups and structured investigation output. |
 | Version 3 | `phishing_investigation_tool.py`| Full SOC-style investigation tool with advanced detection capabilities (planned). |
 
-Phishing Detector [Version 1](phishing_detector.py) 
-
-Phishing Detector Expanded [Version 2](phishing_detector_expanded.py)
-
-Phishing Investigation Tool [Version 3](phishing_investigation_tool.py) 
-
 ---
 
 ## Version 1: Basic Phishing URL Detector
@@ -62,7 +56,7 @@ New capabilities include:
 
 ### Example Investigation Output
 
-[Base Output Example](python_output_example.png)
+[Base Output Example](phishing_output_example.png)
 
 ---
 
